@@ -1,0 +1,28 @@
+/* Custom css goes here */
+body            
+{
+    background-color:#679ded;
+    font-size:14px;
+    font-family:Verdana;
+}
+
+p{
+    font-size: large;
+    text-decoration-style: solid;
+}
+
+
+.about{
+    text-align: center;
+    color: rgb(14, 61, 90);
+}
+.button{
+    background-color: rgb(25, 15, 34);
+    
+
+}
+
+.card{
+    background-color: #d6e7f0;
+    
+}
